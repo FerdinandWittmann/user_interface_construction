@@ -1,0 +1,229 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {About us - {MUI}}}{%
+\APACcitebtitle {About us - {MUI}}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+noauthor_about_nodate}
+\APACinsertmetastar {%
+noauthor_about_nodate}%
+\APACrefbtitle {About us - {MUI}.} {About us - {MUI}.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL} [{2022-12-18}]\url{https://mui.com/about/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Armstrong%
+}{%
+Armstrong%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+armstrong_infographic_2022}
+\APACinsertmetastar {%
+armstrong_infographic_2022}%
+\begin{APACrefauthors}%
+Armstrong, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{{\APACmonth{04}}}{}.
+\newblock
+\APACrefbtitle {Infographic: {Homes} {Are} {Only} {Getting} {Smarter}.}
+  {Infographic: {Homes} {Are} {Only} {Getting} {Smarter}.}
+\newblock
+\begin{APACrefURL}
+  [{2022-11-22}]\url{https://www.statista.com/chart/27324/households-with-smart-devices-global-iot-mmo/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Constantine%
+\ \BBA {} Lockwood%
+}{%
+Constantine%
+\ \BBA {} Lockwood%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+constantine_structure_2000}
+\APACinsertmetastar {%
+constantine_structure_2000}%
+\begin{APACrefauthors}%
+Constantine, L.%
+\BCBT {}\ \BBA {} Lockwood, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structure and {Style} in {Use} {Cases} for {User}
+  {Interface} {Design}} {Structure and {Style} in {Use} {Cases} for {User}
+  {Interface} {Design}}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gkogka%
+}{%
+Gkogka%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+gkogka_gestalt_2018}
+\APACinsertmetastar {%
+gkogka_gestalt_2018}%
+\begin{APACrefauthors}%
+Gkogka, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{01}}}{}.
+\newblock
+\APACrefbtitle {Gestalt principles in {UI} design.. {How} to become a master
+  manipulator of… {\textbar} by {Eleana} {Gkogka} {\textbar} {Muzli} -
+  {Design} {Inspiration}.} {Gestalt principles in {UI} design.. {How} to become
+  a master manipulator of… {\textbar} by {Eleana} {Gkogka} {\textbar} {Muzli}
+  - {Design} {Inspiration}.}
+\newblock
+\begin{APACrefURL}
+  [{2022-12-18}]\url{https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{IoT} heating solutions for the future}}{%
+\APACcitebtitle {{IoT} heating solutions for the future}}{%
+{\protect \APACyear {2019}}%
+}]{%
+noauthor_iot_2019}
+\APACinsertmetastar {%
+noauthor_iot_2019}%
+\APACrefbtitle {{IoT} heating solutions for the future.} {{IoT} heating
+  solutions for the future.}
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2022-11-22}]\url{https://www.danfoss.com/en/about-danfoss/articles/dhs/iot-heating-solutions-for-the-future/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mulvaney%
+}{%
+Mulvaney%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+mulvaney_what_2022}
+\APACinsertmetastar {%
+mulvaney_what_2022}%
+\begin{APACrefauthors}%
+Mulvaney, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{{\APACmonth{06}}}{}.
+\newblock
+\APACrefbtitle {What is a carbon footprint—and how to measure yours.} {What
+  is a carbon footprint—and how to measure yours.}
+\newblock
+\begin{APACrefURL}
+  [{2022-11-22}]\url{https://www.nationalgeographic.com/environment/article/what-is-a-carbon-footprint-how-to-measure-yours}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nielsen%
+}{%
+Nielsen%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+nielsen_10_2020}
+\APACinsertmetastar {%
+nielsen_10_2020}%
+\begin{APACrefauthors}%
+Nielsen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{04}}}{}.
+\newblock
+\APACrefbtitle {10 {Usability} {Heuristics} for {User} {Interface} {Design}.}
+  {10 {Usability} {Heuristics} for {User} {Interface} {Design}.}
+\newblock
+\begin{APACrefURL}
+  [{2022-12-12}]\url{https://www.nngroup.com/articles/ten-usability-heuristics/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pruitt%
+\ \BBA {} Grudin%
+}{%
+Pruitt%
+\ \BBA {} Grudin%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+pruitt_personas_2003}
+\APACinsertmetastar {%
+pruitt_personas_2003}%
+\begin{APACrefauthors}%
+Pruitt, J.%
+\BCBT {}\ \BBA {} Grudin, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Personas: practice and theory} {Personas: practice and
+  theory}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2003 conference on {Designing} for
+  user experiences - {DUX} '03} {Proceedings of the 2003 conference on
+  {Designing} for user experiences - {DUX} '03}\ (\BPG~1).
+\newblock
+\APACaddressPublisher{San Francisco, California}{ACM Press}.
+\newblock
+\begin{APACrefURL}
+  [{2022-09-24}]\url{http://portal.acm.org/citation.cfm?doid=997078.997089}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/997078.997089} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Smith%
+\ \BBA {} Moiser%
+}{%
+Smith%
+\ \BBA {} Moiser%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+smith_guidelines_1986}
+\APACinsertmetastar {%
+smith_guidelines_1986}%
+\begin{APACrefauthors}%
+Smith, S.%
+\BCBT {}\ \BBA {} Moiser, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{GUIDELINES} {FOR} {DESIGNING} {USER} {INTERFACE}
+  {SOFTWARE}} {{GUIDELINES} {FOR} {DESIGNING} {USER} {INTERFACE}
+  {SOFTWARE}}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
